@@ -261,20 +261,6 @@ The backend APIs were tested using:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here:
-
-- Home Page
-- Registration
-- Login
-- Upload
-- Storage Usage
-- Bill Generation
-- Backend Terminal
-
----
-
 ## 🔮 Future Improvements
 
 - 📤 Real File Upload
