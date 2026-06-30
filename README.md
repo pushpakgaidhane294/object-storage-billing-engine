@@ -74,7 +74,7 @@ object-storage-billing-engine/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/object-storage-billing-engine.git
+git clone https://github.com/pushpakgaidhane294/object-storage-billing-engine.git
 ```
 
 ---
